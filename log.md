@@ -10,7 +10,8 @@ worked on my portfolio-projects
 
 ##### Learning: 
 
-
+- Learnin2learn https://www.udemy.com/share/102Lus3@NJhiyl_WBeaiI5O3wmm2EoJBYWPy-Id7GGsXIAwW-kCS6DrG30MkueQv43DjdXn3/
+- 
 
 ##### Thoughts:
 
