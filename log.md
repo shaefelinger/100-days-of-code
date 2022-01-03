@@ -2,38 +2,33 @@
 
 
 
-### Day 1: Jan 2, 2022
+### Day 1: Jan 2, 2022 - 
 
 ##### Today's Progress: 
 
 worked on my portfolio-projects
 
-##### Learning: 
-
-- Learnin2learn https://www.udemy.com/share/102Lus3@NJhiyl_WBeaiI5O3wmm2EoJBYWPy-Id7GGsXIAwW-kCS6DrG30MkueQv43DjdXn3/
-- 
+- travel-blog-project "around the world"
 
 ##### Thoughts:
 
-i want to put more time into working on projects.
+i want to focus more on finishing my projects
 
 ##### Link to work:
 
-https://github.com/shaefelinger/HCS-Project2-TravelBlogVue
-
 https://aroundtheworld-blog.netlify.app/
 
+https://functionfactory.de/projects
 
-
-
+https://github.com/shaefelinger/HCS-Project2-TravelBlogVue
 
 ------
 
-### Day 1: Jan 2, 2022
+### Day 2: Jan 3, 2022
 
 ##### Today's Progress: 
 
-- working on the travel-blog-project "around the world"
+- 
 
 ##### Learning:
 
