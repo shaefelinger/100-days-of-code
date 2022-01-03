@@ -28,15 +28,32 @@ https://github.com/shaefelinger/HCS-Project2-TravelBlogVue
 
 ##### Today's Progress: 
 
-- 
+- added content to my music-homepage 
+- added content to my coding-refernce (codepedia)
 
 ##### Learning:
 
+- learning to learn https://www.udemy.com/course/learning-to-learn-efficient-learning-zero-to-mastery/
+
+- clean code https://www.udemy.com/course/writing-clean-code/
+
+- vue mastery 1 chapter - touring vue router
+
+- junior to senior: finished section 2 https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/
+
+- JS learned about the double &&-operator
+
+  ```js
+  const shoppingCart = isLoggedIn && ['Books']
+  ```
+
 ##### Thoughts:
+
+I want to make sure that i make progress in my projects every day.
 
 ##### Link to work:
 
+https://github.com/shaefelinger/100-days-of-code
 
-
-
+------
 
