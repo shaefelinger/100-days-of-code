@@ -31,7 +31,7 @@ https://github.com/shaefelinger/HCS-Project2-TravelBlogVue
 - added content to my music-homepage 
 - added content to my coding-reference https://codepedia.functionfactory.de/
 
-##### Learning:
+##### Learning/Tutorials:
 
 - learning to learn https://www.udemy.com/course/learning-to-learn-efficient-learning-zero-to-mastery/
 
