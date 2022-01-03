@@ -29,7 +29,7 @@ https://github.com/shaefelinger/HCS-Project2-TravelBlogVue
 ##### Today's Progress: 
 
 - added content to my music-homepage 
-- added content to my coding-refernce (codepedia)
+- added content to my coding-reference https://codepedia.functionfactory.de/
 
 ##### Learning:
 
