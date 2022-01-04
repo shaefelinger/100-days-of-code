@@ -71,9 +71,12 @@ https://github.com/shaefelinger/100-days-of-code
 - More Javascript details:https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/
   - learned about labled statements
   - better understanding of errors
+- almost finished vuemastery - vue router
 
 
 ##### Thoughts:
 
 i really enjoy coding :-))
+
+------
 
