@@ -57,3 +57,23 @@ https://github.com/shaefelinger/100-days-of-code
 
 ------
 
+### Day 3: Jan 4, 2022
+
+##### Today's Progress: 
+
+- improved i18n and the project-structure  and added content to my music-homepage 
+
+##### Learning/Tutorials:
+
+- learning to learn: finished chapter2
+- Junior to senior: some react-basics
+- Flutter Basics: https://www.udemy.com/course/dart-flutter-leicht-gemacht/
+- More Javascript details:https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/
+  - learned about labled statements
+  - better understanding of errors
+
+
+##### Thoughts:
+
+i really enjoy coding :-))
+
