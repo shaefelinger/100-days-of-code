@@ -61,7 +61,7 @@ https://github.com/shaefelinger/100-days-of-code
 
 ##### Today's Progress: 
 
-- improved i18n and the project-structure  and added content to my music-homepage 
+- improved i18n and the project-structure and added more content to my music-homepage 
 
 ##### Learning/Tutorials:
 
