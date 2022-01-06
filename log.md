@@ -80,3 +80,28 @@ i really enjoy coding :-))
 
 ------
 
+### Day 4: Jan 5, 2022
+
+##### Today's Progress: 
+
+- worked on the backend for my bookkeeping/tax app 
+  - started working on a universal findMany()-function
+  - applied CleanCode-Naming-Principles 
+
+
+##### Learning/Tutorials:
+
+- learning to learn: finished chapter3
+- clean-code: naming
+- finisehd vue-mastery: touring vue-router
+- junior to senior:
+  - first react component
+  - tachyons
+  - more dart-basics
+
+##### Thoughts:
+
+I have to stop working on solutions in the evening  - i couldn't sleep...
+
+------
+
