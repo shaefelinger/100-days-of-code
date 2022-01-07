@@ -2,25 +2,107 @@
 
 
 
-### Day 1: Jan 2, 2022 - 
+### Day 6: Jan 7, 2022
 
 ##### Today's Progress: 
 
-worked on my portfolio-projects
+- finetuned the backend for my bookkeeping/tax app 
 
-- travel-blog-project "around the world"
+  
+
+  
+
+
+##### Learning/Tutorials:
+
+- insomnia - handle collections & create api-documentation
+
+  
 
 ##### Thoughts:
 
-i want to focus more on finishing my projects
 
-##### Link to work:
 
-https://aroundtheworld-blog.netlify.app/
 
-https://functionfactory.de/projects
 
-https://github.com/shaefelinger/HCS-Project2-TravelBlogVue
+------
+
+### Day 5: Jan 6, 2022
+
+##### Today's Progress: 
+
+- worked more on the backend for my bookkeeping/tax app 
+
+  - universal findMany()-function working - my own little ORM
+
+    
+
+
+##### Learning/Tutorials:
+
+- learning to learn
+
+- more React basics
+
+- more Flutter Basics
+
+- more JS behind the scenes: hoisting, use strict
+
+- more clean code
+
+  
+
+##### Thoughts:
+
+i wonder if i should learn react native instead of flutter??
+
+------
+
+### Day 4: Jan 5, 2022
+
+##### Today's Progress: 
+
+- worked on the backend for my bookkeeping/tax app 
+  - started working on a universal findMany()-function
+  - applied CleanCode-Naming-Principles 
+
+
+##### Learning/Tutorials:
+
+- learning to learn: finished chapter3
+- clean-code: naming
+- finisehd vue-mastery: touring vue-router
+- junior to senior:
+  - first react component
+  - tachyons
+  - more dart-basics
+
+##### Thoughts:
+
+I have to stop working on solutions in the evening  - i couldn't sleep...
+
+------
+
+### Day 3: Jan 4, 2022
+
+##### Today's Progress: 
+
+- improved i18n and the project-structure and added more content to my music-homepage 
+
+##### Learning/Tutorials:
+
+- learning to learn: finished chapter2
+- Junior to senior: some react-basics
+- Flutter Basics: https://www.udemy.com/course/dart-flutter-leicht-gemacht/
+- More Javascript details:https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/
+  - learned about labled statements
+  - better understanding of errors
+- almost finished vuemastery - vue router
+
+
+##### Thoughts:
+
+man, i really enjoy coding :-))
 
 ------
 
@@ -55,53 +137,28 @@ I want to make sure that i make progress in my projects every day.
 
 https://github.com/shaefelinger/100-days-of-code
 
-------
+### 
 
-### Day 3: Jan 4, 2022
-
-##### Today's Progress: 
-
-- improved i18n and the project-structure and added more content to my music-homepage 
-
-##### Learning/Tutorials:
-
-- learning to learn: finished chapter2
-- Junior to senior: some react-basics
-- Flutter Basics: https://www.udemy.com/course/dart-flutter-leicht-gemacht/
-- More Javascript details:https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/
-  - learned about labled statements
-  - better understanding of errors
-- almost finished vuemastery - vue router
-
-
-##### Thoughts:
-
-i really enjoy coding :-))
-
-------
-
-### Day 4: Jan 5, 2022
+### Day 1: Jan 2, 2022
 
 ##### Today's Progress: 
 
-- worked on the backend for my bookkeeping/tax app 
-  - started working on a universal findMany()-function
-  - applied CleanCode-Naming-Principles 
+worked on my portfolio-projects
 
-
-##### Learning/Tutorials:
-
-- learning to learn: finished chapter3
-- clean-code: naming
-- finisehd vue-mastery: touring vue-router
-- junior to senior:
-  - first react component
-  - tachyons
-  - more dart-basics
+- travel-blog-project "around the world"
 
 ##### Thoughts:
 
-I have to stop working on solutions in the evening  - i couldn't sleep...
+i want to focus more on finishing my projects
+
+##### Link to work:
+
+https://aroundtheworld-blog.netlify.app/
+
+https://functionfactory.de/projects
+
+https://github.com/shaefelinger/HCS-Project2-TravelBlogVue
 
 ------
 
+### 
