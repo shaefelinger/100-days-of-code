@@ -8,22 +8,21 @@
 
 - finetuned the backend for my bookkeeping/tax app 
 
-  
+- figured out how to display the git-branchname in the terminal
 
   
-
 
 ##### Learning/Tutorials:
 
 - insomnia - handle collections & create api-documentation
-
-  
+- react native-basics
+- lear2learn 2 episodes
 
 ##### Thoughts:
 
+excited about React native. I don't have to learn a new language and learning React also expands my capabilities as a web developer👍
 
-
-
+I think i like React. It feels more like writing JS then Vue
 
 ------
 
