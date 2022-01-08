@@ -2,6 +2,22 @@
 
 
 
+### Day 7: Jan 8, 2022
+
+##### Today's Progress: 
+
+- finetuned the backend for my bookkeeping/tax app 
+
+##### Learning/Tutorials:
+
+- learn2learn 4 episodes
+
+##### Thoughts:
+
+weekend - i'll take it easy…
+
+------
+
 ### Day 6: Jan 7, 2022
 
 ##### Today's Progress: 
