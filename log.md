@@ -4,15 +4,20 @@
 
 ##### Today's Progress: 
 
-- 
+- updated clean code in my [codepedia](https://codepedia.functionfactory.de/cleancode/)
 
 ##### Learning/Tutorials:
 
-- 
+- finished naming chapter in udemy clean-code
+- 4 cahpters in learing to learn
 
 ##### Thoughts:
 
+writing my codepedia takes a lot of time but it is totally worth it. it covers a lot of principles from the learning to learn-course:
 
+- repetition
+- taking notes and writing my own summary gets the information from the shortterm memory to the longterm memory
+- it also applies the feynman principle (if you want to undestand something really well, you need to be able to teach it):  my goal is to structure the information as if i would have to teach it
 
 ------
 
