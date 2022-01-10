@@ -4,20 +4,22 @@
 
 ##### Today's Progress: 
 
-- updated clean code in my [codepedia](https://codepedia.functionfactory.de/cleancode/)
+- updated clean code, backend-basics & terminal in my [codepedia](https://codepedia.functionfactory.de/cleancode/)
+- found balsamic wireframes -  wireframing-tool. Looks cool so far
 
 ##### Learning/Tutorials:
 
 - finished naming chapter in udemy clean-code
-- 4 cahpters in learing to learn
+- 4 chapters in learing to learn
+- more react-basics
 
 ##### Thoughts:
 
-writing my codepedia takes a lot of time but it is totally worth it. it covers a lot of principles from the learning to learn-course:
+writing myCodepedia takes a lot of time but it is totally worth it. it covers a lot of principles from the learning to learn-course:
 
 - repetition
 - taking notes and writing my own summary gets the information from the shortterm memory to the longterm memory
-- it also applies the feynman principle (if you want to undestand something really well, you need to be able to teach it):  my goal is to structure the information as if i would have to teach it
+- it also applies the feynman principle ("if you want to undestand something really well, you need to be able to teach it"):  my goal is to structure the information as if i would have to teach it
 
 ------
 
