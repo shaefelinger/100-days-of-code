@@ -12,7 +12,7 @@
 
 ##### Thoughts:
 
-weekend - i'll take it easy…
+
 
 ------
 
@@ -21,17 +21,14 @@ weekend - i'll take it easy…
 ##### Today's Progress: 
 
 - installed iTerm2, .zsh-oh-my & added aliases. 
-- installed quokka vscode-extension
 
 ![image-20220110082200298](assets/image-20220110082200298.png)
+
+- installed quokka vscode-extension - nice
 
 ##### Learning/Tutorials:
 
 - quokka-tutorial
-
-##### Thoughts:
-
-weekend - i'll take it easy…
 
 ------
 
