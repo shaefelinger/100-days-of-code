@@ -1,12 +1,48 @@
 # 100 Days Of Code - Log
 
+### Day 9: Jan 10, 2022
 
+##### Today's Progress: 
+
+- 
+
+##### Learning/Tutorials:
+
+- 
+
+##### Thoughts:
+
+weekend - i'll take it easy…
+
+------
+
+### Day 8: Jan 9, 2022
+
+##### Today's Progress: 
+
+- installed iTerm2, .zsh-oh-my & added aliases. 
+- installed quokka vscode-extension
+
+![image-20220110082200298](assets/image-20220110082200298.png)
+
+##### Learning/Tutorials:
+
+- quokka-tutorial
+
+##### Thoughts:
+
+weekend - i'll take it easy…
+
+------
 
 ### Day 7: Jan 8, 2022
 
 ##### Today's Progress: 
 
 - finetuned the backend for my bookkeeping/tax app 
+- Now i can send almost any search-query to MySQL by sending a JSON to my server. Without using an external ORM-Package:
+
+![image-20220110081053126](assets/image-20220110081053126.png)
 
 ##### Learning/Tutorials:
 
