@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 10: Jan 11, 2022
+
+##### Today's Progress: 
+
+- finished the ZTM "robofriends"- react app
+- added a lot of new content and images to codepedia
+- scheduled a call with a recruiter for next week 
+
+##### Learning/Tutorials:
+
+- finished react-basics from ZeroToMastery
+
+##### Thoughts:
+
+still excited about react.  balsamic wireframes is great, i will buy it!
+
+------
+
 ### Day 9: Jan 10, 2022
 
 ##### Today's Progress: 
