@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 11: Jan 12, 2022
+
+##### Today's Progress: 
+
+- added again a lot of new content and images to codepedia - will be ready to deploy tomorrow
+- more finetuning on the backend for my bookkeeping/tax app 
+
+##### Learning/Tutorials:
+
+- 
+
+##### Thoughts:
+
+i can't understand why balsamiq has no lines… but otherwise it is great
+
+------
+
 ### Day 10: Jan 11, 2022
 
 ##### Today's Progress: 
