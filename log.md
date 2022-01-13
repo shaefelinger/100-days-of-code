@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 12: Jan 12, 2022
+
+##### Today's Progress: 
+
+- codepedia ready for deploy
+- created a demo app for germanpsycho.de - ready for deploy
+- created a demo desktop-app for germanpsycho.de
+- leared more about docker
+
+##### Learning/Tutorials:
+
+- 1 h personal mentoring
+
+##### Thoughts:
+
+
+
+------
+
 ### Day 11: Jan 12, 2022
 
 ##### Today's Progress: 
@@ -9,7 +28,7 @@
 
 ##### Learning/Tutorials:
 
-- 
+- 1 chapter JS 
 
 ##### Thoughts:
 
