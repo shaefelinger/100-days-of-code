@@ -1,21 +1,101 @@
 # 100 Days Of Code - Log
 
-### Day 12: Jan 12, 2022
+### Day 18: Jan 19, 2022
+
+##### Today's Progress: 
+
+- Sent my CV to the recruiter !
+- 
+
+##### Learning/Tutorials:
+
+- First steps with Expo - ZeroToMastery React Native-course
+
+------
+
+### Day 17: Jan 18, 2022
+
+##### Today's Progress: 
+
+- my first call with a recruiter !
+- finished my CV - does this count for the challenge ? ;-))
+
+##### Learning/Tutorials:
+
+- Finished Chapter 3 of the ZeroToMastery React Native-course
+
+------
+
+### Day 16: Jan 17, 2022
+
+##### Learning/Tutorials:
+
+- finished Zero to mastery Carrer-Advice Workshop Section 2
+
+------
+
+### Day 15: Jan 16, 2022
+
+##### Today's Progress: 
+
+- Finetuning of my portfolio-page https://functionfactory.de/
+
+##### Learning/Tutorials:
+
+- joined Zero to mastery and watched the  Carrer-Advice Workshop. Awesome!
+
+  
+
+------
+
+### Day 14: Jan 15, 2022
+
+##### Today's Progress: 
+
+- Travel Blog now working with image upload to the server https://aroundtheworld-blog.netlify.app/
+
+##### Learning/Tutorials:
+
+- finished ZTM React Hooks-Intro
+- finished JS Behind the scenes
+
+
+
+------
+
+### Day 13: Jan 14, 2022
+
+##### Today's Progress: 
+
+- experimented and learned more about promises
+- created a windows and osx app from my germanpsycho-web-app using Quasar/Electron. Exciting!
+- updated my portfolio-page ![image-20220115080521544](../../../../Library/Application Support/typora-user-images/image-20220115080521544.png)
+- using  s3-storage to provide download of my apps on my portfolio-page
+
+##### Learning/Tutorials:
+
+- Learing to learn 1 episode
+- JS deepdive 
+
+##### Thoughts:
+
+Quasar is amazing!!!
+
+------
+
+### Day 12: Jan 13, 2022
 
 ##### Today's Progress: 
 
 - codepedia ready for deploy
 - created a demo app for germanpsycho.de - ready for deploy
-- created a demo desktop-app for germanpsycho.de
-- leared more about docker
+- leared more about docker / caprover
 
 ##### Learning/Tutorials:
 
 - 1 h personal mentoring
 
 ##### Thoughts:
-
-
 
 ------
 
