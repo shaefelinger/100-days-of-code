@@ -5,6 +5,7 @@
 ##### Today's Progress: 
 
 - Sent my CV to the recruiter !
+- added more JS content to https://codepedia.de/
 
 ##### Learning/Tutorials:
 
