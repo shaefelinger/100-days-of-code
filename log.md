@@ -5,11 +5,10 @@
 ##### Today's Progress: 
 
 - Sent my CV to the recruiter !
-- 
 
 ##### Learning/Tutorials:
 
-- First steps with Expo - ZeroToMastery React Native-course
+- ZeroToMastery React Native-course: First steps with Expo 
 
 ------
 
