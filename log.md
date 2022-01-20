@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 19: Jan 20, 2022
+
+##### Today's Progress: 
+
+- added more JS content to https://codepedia.de/
+- cleaned up the Backend for my bookkeeping-App
+- i have a  job-Interview next week. Awesome, exciting and scary 😎💪😱🤗
+
+##### Learning/Tutorials:
+
+- finished ZeroToMastery Career Advice Workshop
+
+- More andvanced JS
+
+- 1 h personal Mentoring
+
+------
+
 ### Day 18: Jan 19, 2022
 
 ##### Today's Progress: 
