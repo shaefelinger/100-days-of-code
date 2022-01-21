@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 20: Jan 21, 2022
+
+##### Today's Progress: 
+
+- added and sorted Vue content to https://codepedia.de/
+
+##### Learning/Tutorials:
+
+- CleanCode - comments
+
+------
+
 ### Day 19: Jan 20, 2022
 
 ##### Today's Progress: 
@@ -7,6 +19,7 @@
 - added more JS content to https://codepedia.de/
 - cleaned up the Backend for my bookkeeping-App
 - i have a  job-Interview next week. Awesome, exciting and scary 😎💪😱🤗
+- some more clean-code
 
 ##### Learning/Tutorials:
 
