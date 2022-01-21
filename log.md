@@ -8,7 +8,7 @@
 
 ##### Learning/Tutorials:
 
-- CleanCode - comments
+- CleanCode - comments & formatting
 
 ------
 
