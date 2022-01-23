@@ -1,5 +1,39 @@
 # 100 Days Of Code - Log
 
+### Day 22: Jan 23, 2022
+
+##### Today's Progress: 
+
+- learned how to emit events in vue script setup
+- script setup-udate to codepedia.de
+
+##### Learning/Tutorials:
+
+- vue-mastery unit testing
+
+##### Thoughts:
+
+- sript setup is cool - i want to use it in every project from now on
+- i still have to figure out the best way to configure eslint with vue. still a bit messy
+- i like testing - create a good feeling :-)
+
+------
+
+### Day 21: Jan 22, 2022
+
+##### Today's Progress: 
+
+- added and sorted Vue Forms-content for https://codepedia.de/
+
+##### Learning/Tutorials:
+
+- CleanCode - finished Comments/Format-Sections & added to codepedia
+- finished JS-functions-chapter
+- Vue-Mastery: 1 chapter Unit-Testing
+- ZeroToMastery: Junior to Sedior-Developer: Redux
+
+------
+
 ### Day 20: Jan 21, 2022
 
 ##### Today's Progress: 
