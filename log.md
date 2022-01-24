@@ -4,12 +4,29 @@
 
 ##### Today's Progress: 
 
+- added contact class to the backend of my bookkeeping-app
+
+##### Learning/Tutorials:
+
+- vue-mastery unit testing
+- ZeroToMastery: redux cont.
+- repeated some JS-DOM
+- some preparation for my interview
+
+------
+
+### Day 22: Jan 23, 2022
+
+##### Today's Progress: 
+
 - learned how to emit events in vue script setup
 - script setup-udate to codepedia.de
 
 ##### Learning/Tutorials:
 
 - vue-mastery unit testing
+- finished ZeroToMaster Workshop: getting your first dev job
+- ZeroToMastery: redux
 
 ##### Thoughts:
 
@@ -30,7 +47,7 @@
 - CleanCode - finished Comments/Format-Sections & added to codepedia
 - finished JS-functions-chapter
 - Vue-Mastery: 1 chapter Unit-Testing
-- ZeroToMastery: Junior to Sedior-Developer: Redux
+- ZeroToMastery: Junior to Senior-Developer: Redux
 
 ------
 
