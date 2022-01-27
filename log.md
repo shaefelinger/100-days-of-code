@@ -1,6 +1,50 @@
 # 100 Days Of Code - Log
 
-### Day 22: Jan 23, 2022
+### Day 26: Jan 27, 2022
+
+##### Today's Progress: 
+
+- yeah- got invited for the second interview-round👍👍👍
+
+##### Learning/Tutorials:
+
+- JS - repeated some dom methods
+
+- VueMastery - Advanced Composition-API
+
+- CleanCode - Functions
+
+- Learning to learn - 2 episodes
+
+
+------
+
+### Day 25: Jan 26, 2022
+
+##### Today's Progress: 
+
+- prepared for and had my first interview…  
+- joined and watched vuejs-nation conference
+
+------
+
+### Day 24: Jan 25, 2022
+
+##### Today's Progress: 
+
+- added and cleaned-up content of codepedia -DOM
+- got contacted by another recruiter
+
+##### 
+
+- ZTM - Learning to learn 3 Episodes & SMART-Goals
+- finished Vue Mastery UnitTesting
+- finished: ZeroToMastery- Junior to senior: Redux-Chapter
+- 2 chapters ZeroToMastery ReactNative
+
+------
+
+### Day 23: Jan 24, 2022
 
 ##### Today's Progress: 
 
