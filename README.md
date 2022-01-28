@@ -5,6 +5,7 @@
 ##### Today's Progress: 
 
 - worked on backend for my bookkeeping-app - contacts handled by classes
+- testing
 
 ##### Learning/Tutorials:
 
