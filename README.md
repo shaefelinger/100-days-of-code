@@ -4,8 +4,25 @@
 
 ##### Today's Progress: 
 
+- revisited array-methods in codepedia
+- did a quick look into vite-press
+- experimented with auto-plugin - cool 👍 https://github.com/antfu/unplugin-auto-import
+- added content to my music-homepage
+
+##### Learning/Tutorials:
+
+- js - repeated array-methods
+- ZTM junior to senior - finished webpack & babel
+- 1 episode vuemastery advanced composition-api
+- Finished ZTM the science
+
+------
+
+### Day 27: Jan 28, 2022
+
+##### Today's Progress: 
+
 - worked on backend for my bookkeeping-app - contacts handled by classes
-- testing
 
 ##### Learning/Tutorials:
 
