@@ -1,20 +1,137 @@
 # 100 Days Of Code - Log
 
-### Day 27: Jan 28, 2022
+### Day 37: Feb 11, 2022
+
+##### Learning/Tutorials:
+
+- ZTM - finisished personal online security
+
+------
+
+### Day 37: Feb 11, 2022
+
+##### Learning/Tutorials:
+
+- academind JS - more Classes. get/set
+- ZTM - codesplitting
+
+------
+
+### Day 36: Feb 10, 2022
+
+##### Learning/Tutorials:
+
+- academind JS - more Classes
+- ZTM - learning to learn
+
+------
+
+### Day 35: Feb 9, 2022
+
+##### Progress: 
+
+- got hired -  my first developer job - whoohooo 🤩⚡️
+
+------
+
+### Day 34: Feb 8, 2022
+
+##### Learning/Tutorials:
+
+- VueMastery - finished composition API Course
+- VueMastery - Typscript Intro - `type` and `interface`
+- academind JS - 9 chapters Classes
+- ZeroToMastery: finished Carreer of a Web Developer & A day in the life of a developer
+
+------
+
+### Day 33: Feb 3-7, 2022
+
+Having a few days Family break… just doing a little bit… i'll count multiple days as one day…
+
+##### Progress: 
+
+- review Codepedia JS-Objects & this
+
+##### Learning/Tutorials:
+
+- finished Academind more on JS-Objects & this
+- ZTM jonior to senior - codesplitting intro
+- VueMastery - composition API Sharing State
+
+------
+
+### Day 32: Feb 2, 2022
+
+##### Today's Progress: 
+
+- reworked array-methods in codepedia.de
+
+##### Learning/Tutorials:
+
+- academind: finished array-recap
+
+------
+
+### Day 31: Feb 1, 2022
+
+##### Learning/Tutorials:
+
+- VueMastery: Intro to Typescript
+- academind: Docker first container & image
+- learning to learn 2 episodes
+- VueMastery: advanced composition API
+- Zero to Master: Junor to Senior
+
+------
+
+### Day 29: Jan 31, 2022
+
+##### Today's Progress: 
+
+- cleaned up the backend of my bookkeeping-ap
+- 1 h personal mentoring
+
+##### Learning/Tutorials:
+
+- JavaScript
+- ZeroToMastery JuniorToSenior - finished Chapter 4 (React, Webpack etc.)
+- VueMastery - advanced composition-Api
+- Academind: Docker Basics
+- Academind: CleanCode
+- ZerotoMastery - Learning to learn: started The Techniques
+
+------
+
+### Day 29: Jan 30, 2022
+
+##### Today's Progress: 
+
+- my birthday - i'll take it easy…
+- revisited some array-methods in codepedia.de
+
+##### Learning/Tutorials:
+
+- 1 episode vuemastery advanced composition-api
+
+------
+
+### Day 28: Jan 29, 2022
 
 ##### Today's Progress: 
 
 - revisited array-methods in codepedia
 - did a quick look into vite-press
-- experimented with auto-plugin - cool 👍 https://github.com/antfu/unplugin-auto-import
-- added content to my music-homepage
+- experimented with auto-import-plugin - cool 👍 https://github.com/antfu/unplugin-auto-import
+- added more content to my music-homepage
 
 ##### Learning/Tutorials:
 
 - js - repeated array-methods
 - ZTM junior to senior - finished webpack & babel
 - 1 episode vuemastery advanced composition-api
-- Finished ZTM the science
+- Finished ZTM learning to learn-Chapter: the science
+- Udemy Academind Docker & Kubernetes - Finished Chapter 1
 
 ------
 
